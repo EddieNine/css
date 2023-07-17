@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+#p1{
+    color: aliceblue;
+}
+#p2{
+    color: rgb(13, 204, 45);
+}
+#p3{
+    color: blue;
+}
+#p4{
+    color: yellow;
+}
+<!-- .teste{
+    color: blue;
+} 
